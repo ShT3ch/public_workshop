@@ -1,6 +1,6 @@
 Это репозиторий, куда я складываю материалы с разных своих докладов. Тут пока грязновато, но я приберусь.
 
-# Материалы с доклада на тему BagARTM: генерируем плейлисты DataFest5(MSK)
+# Материалы с доклада на тему BigARTM: генерируем плейлисты DataFest5(MSK)
 
 [Презентация с доклада bigARTM_datafest_5.pdf](https://github.com/ShT3ch/public_workshop/blob/master/bigARTM_datafest_5(2).pdf)
 Еще есть
