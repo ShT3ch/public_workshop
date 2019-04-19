@@ -1,8 +1,9 @@
 Это репозиторий, куда я складываю материалы с разных своих докладов. Тут пока грязновато, но я приберусь.
 
 # DUMP 2019
-[Презентация DUMP 2019](https://github.com/ShT3ch/public_workshop/raw/master/DUMP_2019_Gennady_Shtekh.pdf)
-https://github.com/ShT3ch/public_workshop/raw/master/DUMP_2019_Gennady_Shtekh.pdf
+[Презентация DUMP 2019](https://github.com/ShT3ch/public_workshop/blob/master/DUMP_2019_Gennady_Shtekh.pdf)
+
+https://github.com/ShT3ch/public_workshop/blob/master/DUMP_2019_Gennady_Shtekh.pdf
 
 # Материалы с доклада на тему BigARTM: генерируем плейлисты DataFest5(MSK)
 
